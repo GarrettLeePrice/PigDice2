@@ -1,11 +1,14 @@
 body {
-  /*background-color: #ff99cf;*/
   background-image: url("../image/farm.png");
 }
-img {
-  display: block;
-  margin-left: 315px;
+.porky {
+text-align:center;
 }
+
+.pigsfeet {
+text-align:center;
+}
+
 
 h1 {
   text-align: center;
